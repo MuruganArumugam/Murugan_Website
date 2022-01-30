@@ -1,0 +1,42 @@
+
+
+
+Voteblocks
+Developed a Decentralized Application using Ethereum Blockchain Technology to conduct elections.
+
+https://github.com/MuruganArumugam/Voteblocks_Ethereum_based_voting_system_using_blockchain
+
+Sleepalert
+This is an android based drowsiness detection system.
+
+https://github.com/MuruganArumugam/Sleepalert_Driver-Drowsiness-Detection-Android-Application
+
+Dictionary Application
+This dictionary mobile app gives the meaning and example of the entered word with pictures.
+
+https://github.com/MuruganArumugam/mypersonaldictionaryapp
+
+Mars Image Processing
+I have processed and obtained the image of Mars from the raw planet source video data.
+
+https://github.com/MuruganArumugam/Mars-Image-Processing
+
+Online Car Rental System
+Built a website where you can rent a car online.
+
+https://github.com/MuruganArumugam/car_renting_website
+
+Chamber of Secrets
+It is an online quiz web application that went live as part of ITRIX-20, a National level inter-college symposium.
+
+https://github.com/MuruganArumugam/COS
+
+ <span><img class='express-img'
+              src=""
+              alt=""></span>
+
+https://www.linkedin.com/in/murugan2000/
+
+https://www.instagram.com/murugan_artworks/
+
+https://github.com/MuruganArumugam
